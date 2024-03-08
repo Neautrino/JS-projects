@@ -13,6 +13,6 @@ Here the colors changed by clicking on the colored button.
 The Flamingo Landing page uses GSAP as its opening animation.
 
 
-## 3. [Product Filtering](https://github.com/Neautrino/JS-projects/tree/master/Flamingo)
+## 3. [Product Filtering](https://github.com/Neautrino/JS-projects/tree/master/Product%20Filtering)
 
 It is a project that filters the product based on the checkbox and searching.
